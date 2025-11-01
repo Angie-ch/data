@@ -1,0 +1,8 @@
+torch>=1.7.1
+torchvision
+ftfy
+regex
+tqdm
+packaging
+Pillow
+
